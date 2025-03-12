@@ -23,3 +23,5 @@ Steps to create and select a virtual environment for this project
     Open the Jupyter Notebook in VSCode.
     Click on the kernel selector (top right of the notebook).
     Choose Python -> myenv
+
+FQPMf2TMkMi1ouBRKNAoy8CUrDbEkPfusGY4M0dIMXhemfkCb16dJQQJ99BBACfhMk5XJ3w3AAABACOG2TpX
